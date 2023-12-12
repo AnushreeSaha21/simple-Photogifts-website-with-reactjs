@@ -1,0 +1,14 @@
+/* ProductList.css */
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px auto;
+    max-width: 1200px;
+  }
+  
+.review-list{
+  max-width: none!important;
+  background-color: #f9f2ff;
+}
+  
